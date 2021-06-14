@@ -7,7 +7,7 @@
 - 🔭 I add my works, programs, projects in Github
 - 🌱 I like studying or learning something
 - 👯 I like group work or group project
-- 🥅 Goals: I want to learn more things in CS
+- 🥅 I want to learn more things in CS
 - ⚡ I like to draw, watch movies, read books
 
 
