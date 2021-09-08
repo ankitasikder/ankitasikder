@@ -24,6 +24,11 @@
 <a href="https://github.com/ankitasikder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
 </p>
 
+## RESEARCH PAPER PUBLISHED IN IJRESM ON Web-Based Dynamic Algorithm Visualizer Along with Chat Engine SDK for Neophytes 
+
+**https://journals.resaim.com/ijresm/article/view/1290/
+https://journals.resaim.com/ijresm/article/view/1290/1234/**
+
 ## I have worked with these things
 
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
