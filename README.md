@@ -13,7 +13,6 @@
 
 - 📫 My email id--> **ankita.sikder14@gmail.com**
 
-- ⚡ Contact no.--> : **8583939774**
 
 
 
