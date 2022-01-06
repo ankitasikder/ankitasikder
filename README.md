@@ -8,7 +8,7 @@
 - 🌱 I like studying or learning something
 - 👯 I like group work or group project
 - 🥅 I want to learn more things in CS
-- ⚡ I like to draw, watch movies, read books
+- ⚡ I like to draw, watch movies and making cakes
 
 
 - 📫 My email id--> **ankita.sikder14@gmail.com**
