@@ -32,7 +32,7 @@ https://journals.resaim.com/ijresm/article/view/1290/1234/**
 
 **https://www.irjet.net/archives/V8/i11/IRJET-V8I11259.pdf**
 
-## Project-Based Internship Under Prof. Sudipto Kumar Mondal on Deep Learning based Mask Detection System using Covid Updates
+## Project-Based Internship Under Prof. Sudipto Kumar Mondal of UEMK on Deep Learning based Mask Detection System using Covid Updates
 
 <a href="https://drive.google.com/file/d/1Mk1iwNYfT814wgirDBvZmwc-EMkyiwdM/view">Cirtificate</a>
 
@@ -40,7 +40,7 @@ https://journals.resaim.com/ijresm/article/view/1290/1234/**
 
 <a href="https://drive.google.com/file/d/1xadk-ryYSVLFKAJ8s5vzcMi4zNl--zsC/view">Cirtificate</a>
 
-## Deloitte Technology Conculting Virtual Internship in Forage
+## Deloitte Technology Consulting Virtual Internship in Forage
 
 <a href="https://drive.google.com/file/d/1CDt0ayELdZHcRIsrLCUIfTj06clzDeA2/view">Cirtificate</a>
 
