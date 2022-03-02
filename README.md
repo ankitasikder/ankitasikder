@@ -32,6 +32,18 @@ https://journals.resaim.com/ijresm/article/view/1290/1234/**
 
 **https://www.irjet.net/archives/V8/i11/IRJET-V8I11259.pdf**
 
+## Project-Based Internship Under Prof. Sudipto Kumar Mondal on Deep Learning based Mask Detection System using Covid Updates
+
+<a href="https://drive.google.com/file/d/1Mk1iwNYfT814wgirDBvZmwc-EMkyiwdM/view">Cirtificate</a>
+
+## Goldman Sachs Engineering Virtual Program in Forage
+
+<a href="https://drive.google.com/file/d/1xadk-ryYSVLFKAJ8s5vzcMi4zNl--zsC/view">Cirtificate</a>
+
+## Deloitte Technology Conculting Virtual Internship in Forage
+
+<a href="https://drive.google.com/file/d/1CDt0ayELdZHcRIsrLCUIfTj06clzDeA2/view">Cirtificate</a>
+
 ## I have worked with these things
 
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
